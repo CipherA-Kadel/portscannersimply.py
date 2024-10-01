@@ -6,6 +6,15 @@
 
 </div>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
+
+- 🎓 I am a **student**.
+- 💻 Major is **Computer Science and Technology**.
+- 🌱 I'm currently learning **Web development and Python**. 
+- 🤔 My hobbies are **listen music 🎵 and play games🎮**.
+- 📝 Sometimes I write articles on **[My website](https://vibrantfix.github.io/blog/)**
+- 💬 If you have any questions, **just ask me**.
+
 <div align="center">
     <picture align="center">
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niefee/niefee/master/assets/github-contribution-grid-snake.svg">
