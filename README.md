@@ -32,11 +32,22 @@
 &nbsp;
 <br>
 
-<p>
-&emsp;
-<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-&emsp;
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+### <u> Operating Systems and Others:</u>
+
+<br>
+
+<span>
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
+</span>
+&nbsp;
+<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
+</span>
+&nbsp;
+<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
+</span>
+&nbsp
+
+<br>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Cibersecurity Tools***
