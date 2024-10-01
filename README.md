@@ -56,7 +56,6 @@
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
 </span>
 &nbsp
-
 <br>
 
 
