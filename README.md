@@ -26,36 +26,3 @@
 [![GitHub followers](https://img.shields.io/github/followers/CipherA-Kadel?style=social)](https://github.com/CipherA-Kadel)
 [![Twitch Status](https://img.shields.io/twitch/status/kaaddel?style=social)](https://[https://www.twitch.tv/kaaddel])
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
-## 🚀💻 Technologies & Tools
-
-### <u> Languages: </u>
-&nbsp;
-<img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python logo"  title="Python" height="25"/>
-</span>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
-</span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<br>
-
-### <u> Operating Systems and Others:</u>
-<br>
-<span>
-<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"  title="Linux" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"  title="Ubuntu" height="25"/>
-</span>
-&nbsp;
-<span>
-<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"  title="Windows" height="25"/>
-</span>
-&nbsp
-<br>
-
-<i>Follow me around the web:</i><br>
-
-<a href="https://www.linkedin.com/in/alan-ramirez-rubial-3b29b0252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
