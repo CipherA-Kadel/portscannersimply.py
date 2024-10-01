@@ -17,6 +17,20 @@
 [![Twitch Status](https://img.shields.io/twitch/status/kaaddel?style=social)](https://[https://www.twitch.tv/kaaddel])
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+
+### 👉 Software & Tools
+
+<p>
+&emsp;
+<a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
+&emsp;
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Cibersecurity Tools***
 <p align="left">
 
