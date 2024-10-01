@@ -17,9 +17,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/kaaddel?style=social)](https://[https://www.twitch.tv/kaaddel])
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-# Cibersecurity Tools
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Tools & technologies I use...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Cibersecurity Tools***
 <p align="left">
 
 
